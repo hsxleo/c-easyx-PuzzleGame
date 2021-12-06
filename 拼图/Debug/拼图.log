@@ -1,0 +1,6 @@
+﻿  拼图.cpp
+E:\c++\游戏设计\拼图\拼图\拼图.cpp(44,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c++\游戏设计\拼图\拼图\拼图.cpp(142,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c++\游戏设计\拼图\拼图\拼图.cpp(337,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c++\游戏设计\拼图\拼图\拼图.cpp(339,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  拼图.vcxproj -> E:\c++\游戏设计\拼图\Debug\拼图.exe
